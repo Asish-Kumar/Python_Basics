@@ -87,3 +87,6 @@ seven = range(0, 10, 2)
 print(range(0, 10, 2)[2])
 
 print(range(0, 5, 2) == range(0, 7, 2))
+for i in range(0, 30, -2):
+    print(i)  # this doesn't print anything,
+# because range(0, 30, -2) means start from 0 every time add -2 until you reach 30

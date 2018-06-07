@@ -42,3 +42,7 @@ print(str_2)
 print('e' in str_2)
 str_1 = ' '.join(str_1.split())
 print(str_1)
+
+str_1 = "Hello World"  # if two objects contain same value their id will be same
+str_2 = "Hello World"
+print(id(str_1), ' ', id(str_2))

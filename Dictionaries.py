@@ -42,4 +42,6 @@ print(dict_key)
 dict_2 = {1: 11111, 8: 8888, 5: 55555, 0: 00000}
 for i in dict_2.values():
     print(i)
-# dict_1.update(dict_2)
+# dict_1.update(dict_2)  # this return none
+dict_4 = dict_1.copy()  # to copy one dictionary to another
+print(dict_4)
