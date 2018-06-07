@@ -1,4 +1,4 @@
-# In dictionaries we use immutable objects for key, like tuple
+# In dictionaries we use immutable objects for key, like tuple...
 dict_1 = {'Jaipur': 'The capital of Rajasthan',
           "Rajasthan": "A beautiful state in India",
           "India": "An incredible country in Asia",
