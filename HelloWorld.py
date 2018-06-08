@@ -48,13 +48,15 @@ print(2 * 3)
 #     print("False")
 # print("Hello " "Asish" + str(494)+". How are you today?")
 # answer = input()
-# ansString = "fine"," good", "mst", "jhakaas", "well", "preety", "happy"# by seperating every word like this answer in ansString will look for exact match to each word
+# ansString = "fine"," good", "mst", "jhakaas", "well", "preety", "happy"# by seperating every word like this
+#  answer in ansString will look for exact match to each word
 # if answer in ansString:  #for eg. aas is not in ansString but jhakaas is
 #     print("Oh! that's excellent sir")
 #     print("Please allow me to introduce you to PYTHON, myself!")
 # else:
 #     ask = input("If I may, What is it that is bothering you Sir?")
 #     print("I'm so sorry for that, I'll try my best to distract you from your tension")
-#     print("Let's {0:>9} {1}{2:<3}, Just For Fun!!!".format("learn",'Python',3)) #{0},{1} are replacement fields, <,> are used to set left or right alignment
+#     print("Let's {0:>9} {1}{2:<3}, Just For Fun!!!".format("learn",'Python',3)) #{0},{1} are
+# replacement fields, <,> are used to set left or right alignment
 # # after : in {} specifies the width that it will occupy
 #
