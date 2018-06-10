@@ -1,3 +1,7 @@
+# Author: Asish Kumar
+#
+# Elements of a list are not hashed
+#
 # PlayerList = []
 # Ranks = []
 # print("Please Enter Player Name and Their Ranks or enter q to quit: ")

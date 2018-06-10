@@ -2,11 +2,12 @@
 # Sets are mutable objects in Python
 # That means they support item assignment just like lists
 # Elements of a set are immutable objects
-# Sets are unordered just like dict because their elements are hashed
+# Elements of the sets are unordered just like dict because their elements are hashed
+# Elements of sets are hashable but a set itself is un-hashable, therefore a set cannot contain another set or dict
 #
-# Mutable objects:
+# Mutable objects: (unhashable)
 # list, dict, set, byte array
-# Immutable objects:
+# Immutable objects: (hashable)
 # int, float, complex, string, tuple, frozen set, bytes
 #
 # in sets we use {}
